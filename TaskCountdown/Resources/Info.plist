@@ -21,5 +21,19 @@
 			</array>
 		</dict>
 	</dict>
+    <key>UIAppFonts</key>
+    <array>
+        <string>Code Pro Bold LC.otf</string>
+        <string>Code Pro LC.otf</string>
+        <string>Monsterrat-Bold.ttf</string>
+        <string>Monsterrat-Italic.ttf</string>
+        <string>Monsterrat-Medium.ttf</string>
+        <string>Monsterrat-MediumItalic.ttf</string>
+        <string>Monsterrat-Regular.ttf</string>
+        <string>Monsterrat-SemiBold.ttf</string>
+        <string>Monsterrat-SemiBoldItalic.ttf</string>
+        <string>Monsterrat-Thin.ttf</string>
+        <string>Monsterrat-ThinItalic.ttf</string>
+    </array>
 </dict>
 </plist>
