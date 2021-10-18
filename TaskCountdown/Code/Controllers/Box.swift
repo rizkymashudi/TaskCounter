@@ -14,7 +14,7 @@ class Box<T> {
     // MARK: -variables
     var value: T {
         didSet {
-            listener?(value)
+            listener?(value) 
         }
     }
     

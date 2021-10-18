@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  TaskCountdown
 //
 //  Created by Rizky Mashudi on 17/10/21.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
