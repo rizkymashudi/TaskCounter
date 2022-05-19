@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F54885D628367B4E00C59CDC /* TaskTypesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54885D428367B4E00C59CDC /* TaskTypesCollectionViewCell.swift */; };
+		F54885D728367B4E00C59CDC /* TaskTypesCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F54885D528367B4E00C59CDC /* TaskTypesCollectionViewCell.xib */; };
 		F5D549EB271C5BD200FF8DE7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D549EA271C5BD200FF8DE7 /* AppDelegate.swift */; };
 		F5D549ED271C5BD200FF8DE7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D549EC271C5BD200FF8DE7 /* SceneDelegate.swift */; };
 		F5D549EF271C5BD200FF8DE7 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5D549EE271C5BD200FF8DE7 /* MainViewController.swift */; };
@@ -33,6 +35,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F54885D428367B4E00C59CDC /* TaskTypesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTypesCollectionViewCell.swift; sourceTree = "<group>"; };
+		F54885D528367B4E00C59CDC /* TaskTypesCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TaskTypesCollectionViewCell.xib; sourceTree = "<group>"; };
 		F5D549E7271C5BD200FF8DE7 /* TaskCountdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskCountdown.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5D549EA271C5BD200FF8DE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F5D549EC271C5BD200FF8DE7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -228,6 +232,8 @@
 		F5D54A2C271DB7F500FF8DE7 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
+				F54885D428367B4E00C59CDC /* TaskTypesCollectionViewCell.swift */,
+				F54885D528367B4E00C59CDC /* TaskTypesCollectionViewCell.xib */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -302,6 +308,7 @@
 				F5D54A19271C5F0E00FF8DE7 /* Code Pro LC.otf in Resources */,
 				F5D549F2271C5BD200FF8DE7 /* Main.storyboard in Resources */,
 				F5D54A18271C5F0E00FF8DE7 /* Code Pro Bold LC.otf in Resources */,
+				F54885D728367B4E00C59CDC /* TaskTypesCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +328,7 @@
 				F5D549EB271C5BD200FF8DE7 /* AppDelegate.swift in Sources */,
 				F5D549F5271C5BD200FF8DE7 /* TaskCountdown.xcdatamodeld in Sources */,
 				F5D549ED271C5BD200FF8DE7 /* SceneDelegate.swift in Sources */,
+				F54885D628367B4E00C59CDC /* TaskTypesCollectionViewCell.swift in Sources */,
 				F5D54A2A271DB72000FF8DE7 /* Task.swift in Sources */,
 				F5D54A28271DB5B500FF8DE7 /* Constants.swift in Sources */,
 			);

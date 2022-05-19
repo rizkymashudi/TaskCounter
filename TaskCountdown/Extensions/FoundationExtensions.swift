@@ -20,6 +20,6 @@ extension Int {
 
 extension Double {
     func degreeToRadians() -> CGFloat {
-        return CGFloat(self * .pi) /100
+        return CGFloat(self * .pi) / 100
     }
 }
